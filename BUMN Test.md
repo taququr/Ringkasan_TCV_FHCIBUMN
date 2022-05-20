@@ -2,7 +2,7 @@
 
 **Sejarah Kementerian BUMN**
     
-    Organisasi Pemerintah yang memiliki Tugas Pokok dan Fungsi (Tupoksi) melaksanakan pembinaan terhadap Perusahaan Negara/Badan Usaha Milik Negara di Republik Indonesia telah ada sejak tahun 1973. Awalnya, organisasi ini merupakan bagian dari unit kerja di lingkungan Departemen Keuangan Republik Indonesia. Selanjutnya, organisasi tersebut mengalami beberapa kali perubahan dan perkembangan.
+  * Organisasi Pemerintah yang memiliki Tugas Pokok dan Fungsi (Tupoksi) melaksanakan pembinaan terhadap Perusahaan Negara/Badan Usaha Milik Negara di Republik Indonesia telah ada sejak tahun 1973. Awalnya, organisasi ini merupakan bagian dari unit kerja di lingkungan Departemen Keuangan Republik Indonesia. Selanjutnya, organisasi tersebut mengalami beberapa kali perubahan dan perkembangan.
 
   1. **1973 Unit Eselon II**
      * Dalam periode 1973 sampai dengan 1993, unit yang menangani pembinaan BUMN berada pada unit setingkat Eselon II. Unit organisasi itu disebut Direktorat Persero dan PKPN (Pengelolaan Keuangan Perusahaan Negara). Selanjutnya, terjadi perubahan nama menjadi Direktorat Persero dan BUN (Badan Usaha Negara). Kemudian organisasi ini berubah menjadi Direktorat Pembinaan BUMN (Badan Usaha Milik Negara) sampai dengan tahun 1993
